@@ -1,7 +1,7 @@
 PhD - Approximation at the Edge for Automated Driving (Marie Skłodowska-Curie Actions Researcher) [APROPOS Project](https://cordis.europa.eu/project/id/956090){:target="_blank"} 
 
 ML/AI Research Engineer.
-Processors, Accelerators and Embedded Systems
+<!-- Processors, Accelerators and Embedded Systems -->
 
 [❇️ Linkedin](https://www.linkedin.com/in/dewantkatare/){:target="_blank"} 
   |
