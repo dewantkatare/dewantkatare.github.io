@@ -61,15 +61,15 @@
     
     <td style="width: 65%; vertical-align: top; border: none;">
       <div style="padding-top: 10px;">
-        <h2 style="margin-top: 0; color: #333;">देवांत कटारे</h2>
+        <!-- <h2 style="margin-top: 0; color: #333;">देवांत कटारे</h2> -->
         
         <p>ML/AI Research Engineer with interest in Processors, Accelerators, and Embedded Systems.</p>
         <p><b>PhD - Approximation at the Edge for Automated Driving</b><br>
-        Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090" target="_blank">APROPOS Project</a></p>
+        Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090" target="_blank">APROPOS</a></p>
         
         <hr>
 
-        <h3>Research Areas | अनुसंधान क्षेत्र</h3>
+        <h3>Research Areas</h3>
         <ul>
           <li>Approximate Computing for Vehicular Edge AI</li>
           <li>Energy-aware Machine Learning</li>
