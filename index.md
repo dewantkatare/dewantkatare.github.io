@@ -1,14 +1,14 @@
-<!-- <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed;">
+<table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 35%; vertical-align: top; border: none; padding-right: 25px;">
-      <img src="profile-dk.jpg" alt="Dewant Katare" style="width: 100%; border-radius: 10px;">
-      <br><br>
+  <td style="width: 35%; vertical-align: top; border: none; padding-right: 25px;">
+    <img src="profile-dk.jpg" alt="Dewant Katare" style="width: 50%; border-radius: 10px;">
+    <br><br>
       <p>📍 <b>Location</b><br>Delft, Netherlands</p>
       <p>📧 <b>Email</b><br>
         <a href="mailto:dewant.katare@gmail.com">dewant.katare@gmail.com</a><br>
         <a href="mailto:dewant.katare@ieee.org">dewant.katare@ieee.org</a>
       </p>
-      <p>📧 <b>Contact Number</b><br>
+      <p> <b>Contact Number</b><br>
         <a +31633578732 </a><br>
         <a href="mailto:dewant.katare@ieee.org">dewant.katare@ieee.org</a>
       </p>         
@@ -25,7 +25,7 @@
     <td style="width: 65%; vertical-align: top; border: none;">
       <div style="padding-top: 10px;">
         <!-- <h2 style="margin-top: 0; color: #333;">देवांत कटारे</h2> -->
-<!--         
+        
         <p>ML/AI Research Engineer with interest in Processors, Accelerators, and Embedded Systems.</p>
         <p><b>PhD - Approximation at the Edge for Automated Driving</b><br>
         Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090" target="_blank">APROPOS</a></p>
@@ -40,49 +40,10 @@
           <li>Edge AI and Systems</li>
         </ul>
       </div>
-    </td> -->
-  <!-- </tr>
-</table> --> 
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: flex-start; gap: 40px;">
-
-  <div style="flex: 0 0 300px;">
-    <img src="profile-dk.jpg" style="width:100%; border-radius:10px;">
-    
-    <p>📍 <b>Location</b><br>Delft, Netherlands</p>
-
-    <p>📧 <b>Email</b><br>
-      <a href="mailto:dewant.katare@gmail.com">dewant.katare@gmail.com</a><br>
-      <a href="mailto:dewant.katare@ieee.org">dewant.katare@ieee.org</a>
-    </p>
-
-    <p>🔗 <b>Links</b><br>
-      <a href="https://www.linkedin.com/in/dewantkatare/" target="_blank">LinkedIn</a> |
-      <a href="https://scholar.google.com/citations?user=mc1M7awAAAAJ" target="_blank">Scholar</a> |
-      <a href="https://orcid.org/0000-0002-3412-7603" target="_blank">ORCiD</a> |
-      <a href="https://dblp.org/pid/247/8621.html" target="_blank">DBLP</a>
-    </p>
-  </div>
-
-  <div style="flex: 1;">
-    <p><b>ML/AI Research Engineer</b> with interest in Processors, Accelerators, and Embedded Systems.</p>
-
-    <p><b>PhD – Approximation at the Edge for Automated Driving</b><br>
-    Marie Skłodowska-Curie Actions Researcher | 
-    <a href="https://cordis.europa.eu/project/id/956090" target="_blank">APROPOS</a></p>
-
-    <hr>
-
-    <h3>Research Areas</h3>
-    <ul>
-      <li>Approximate Computing for Vehicular Edge AI</li>
-      <li>Energy-aware Machine Learning</li>
-      <li>Sustainable Computing Continuum</li>
-      <li>Edge AI and Systems</li>
-    </ul>
-  </div>
-
-</div>
 ---
 
 #### **Journals, Transactions and Magazines**

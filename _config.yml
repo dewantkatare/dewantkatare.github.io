@@ -2,5 +2,7 @@ title: "Dewant Katare | देवांत कटारे"
 # theme: jekyll-theme-minimal
 theme: jekyll-theme-slate
 # theme: jekyll-theme-cayman
+include:
+  - assets/css/custom.css
 
 google_analytics: G-MKW4R9SD33
