@@ -4,7 +4,10 @@
       <img src="profile-dk.jpg" alt="Dewant Katare" style="width: 100%; border-radius: 10px;">
       <br><br>
       <p>📍 <b>Location</b><br>Delft, Netherlands</p>
-      <p>📧 <b>Email</b><br><a href="mailto:dewant.katare@gmail.com">dewant.katare@gmail.com</a></p>
+      <p>📧 <b>Email</b><br>
+        <a href="mailto:dewant.katare@gmail.com">dewant.katare@gmail.com</a><br>
+        <a href="mailto:dewant.katare@ieee.org">dewant.katare@ieee.org</a>
+      </p>      
       <p>🔗 <b>Links</b><br>
         <a href="https://www.linkedin.com/in/dewantkatare/">LinkedIn</a><br>
         <a href="https://scholar.google.com/citations?user=mc1M7awAAAAJ">Google Scholar</a><br>
@@ -15,10 +18,10 @@
     
     <td style="width: 70%; vertical-align: top; border: none;">
       <h1>Dewant Katare</h1>
+      <p>ML/AI Research Engineer with interest in Processors, Accelerators, and Embedded Systems.</p>
       <p><b>PhD - Approximation at the Edge for Automated Driving</b><br>
       Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090">APROPOS Project</a></p>
       
-      <p>ML/AI Research Engineer specializing in Processors, Accelerators, and Embedded Systems.</p>
       
       <hr>
 
@@ -27,27 +30,11 @@
         <li>Approximate Computing for Vehicular Edge AI</li>
         <li>Energy-aware Machine Learning</li>
         <li>Sustainable Computing Continuum</li>
-        <li>Bias Detection in Autonomous Systems</li>
+        <li>Edge AI and Systems</li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-<!-- PhD - Approximation at the Edge for Automated Driving (Marie Skłodowska-Curie Actions Researcher) [APROPOS Project](https://cordis.europa.eu/project/id/956090){:target="_blank"} 
-
-ML/AI Research Engineer. -->
-<!-- Processors, Accelerators and Embedded Systems -->
-
-[❇️ Linkedin](https://www.linkedin.com/in/dewantkatare/){:target="_blank"} 
-  |
-[🎓 ORCiD](https://orcid.org/0000-0002-3412-7603){:target="_blank"} 
-  |   [🎓 Google Scholar](https://scholar.google.com/citations?user=mc1M7awAAAAJ&hl){:target="_blank"} 
-  |   [🎓 DBLP](https://dblp.org/pid/247/8621.html){:target="_blank"}
-
-
-dewant.katare@gmail.com  | dewant.katare@ieee.org 
-
 
 ---
 
@@ -94,3 +81,19 @@ dewant.katare@gmail.com  | dewant.katare@ieee.org
 - 02/2023 [Bias Detection and Generalization in AI Algorithms on Edge for Autonomous Driving
 ](https://ieeexplore.ieee.org/abstract/document/9996662)
 <br /> Katare, D., Kourtellis, N., Park, S., Perino, D., Janssen, M., & Ding, A. Y. (2022, December). Bias detection and generalization in AI algorithms on edge for autonomous driving. In 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC) (pp. 342-348). IEEE. Available at:https://ieeexplore.ieee.org/abstract/document/9996662
+
+
+- 09/2019 [Autonomous embedded system enabled 3-D object detector:(With point cloud and camera)](https://ieeexplore.ieee.org/abstract/document/8906442)
+<br /> Katare, D., & El-Sharkawy, M. (2019, September). Autonomous Embedded System Enabled 3-D Object Detector:(with Point Cloud and Camera). In 2019 IEEE International Conference on Vehicular Electronics and Safety (ICVES) (pp. 1-6). IEEE. Available at:https://scholarworks.indianapolis.iu.edu/items/1f641437-d7ea-4e1a-b94c-885896e3efbd
+
+- 07/2019 [Real-time 3-d segmentation on an autonomous embedded system: using point cloud and camera](https://ieeexplore.ieee.org/abstract/document/9057988)
+<br /> Katare, D., & El-Sharkawy, M. (2019, July). Real-time 3-d segmentation on an autonomous embedded system: using point cloud and camera. In 2019 IEEE National Aerospace and Electronics Conference (NAECON) (pp. 356-361). IEEE. Available at:https://scholarworks.indianapolis.iu.edu/bitstream/1805/25210/1/Katare2019Real-Time.pdf
+
+- 01/2019 [Embedded system enabled vehicle collision detection: an ANN classifier](https://ieeexplore.ieee.org/abstract/document/8666562)
+<br />Katare, D., & El-Sharkawy, M. (2019, January). Embedded system enabled vehicle collision detection: an ANN classifier. In 2019 IEEE 9th annual computing and communication workshop and conference (CCWC) (pp. 0284-0289). IEEE.
+
+- 06/2018 [Collision warning system: embedded enabled (RTMaps with NXP BLBX2)](https://ieeexplore.ieee.org/abstract/document/8705101)
+<br /> Katare, D., & El-Sharkawy, M. (2018, December). Collision warning system: embedded enabled (RTMaps with NXP BLBX2). In 2018 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT) (pp. 1-6). IEEE. 
+
+- 05/2018 [IOT based solution for level detection using CNN and OpenCV](https://www.proquest.com/openview/a2e6fbe1ba0e9eb698518461bf95776b/1?pq-origsite=gscholar&cbl=1976348)
+<br /> Pathak, D., Sarangapani, R. N., Katare, D., Gaikwad, A. S., & El-Sharkawy, M. (2018). IOT based solution for level detection using CNN and OpenCV. In Proceedings on the International Conference on Internet Computing (ICOMP) (pp. 83-87). The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp).
