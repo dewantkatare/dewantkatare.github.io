@@ -4,13 +4,14 @@
     <img src="profile-dk.jpg" alt="Dewant Katare" style="width: 50%; border-radius: 10px;">
     <br><br>
       <p>📍 <b>Location</b><br>Delft, Netherlands</p>
-      <p>📧 <b>Email</b><br>
+      <p>📧 <b>Email address</b><br>
         <a href="mailto:dewant.katare@gmail.com">dewant.katare@gmail.com</a><br>
         <a href="mailto:dewant.katare@ieee.org">dewant.katare@ieee.org</a>
       </p>
-      <p> <b>Contact Number</b><br>
-        <a href="+31633578732">+31633578732</a><br>
-      </p>         
+      <p>
+        📞 <b>Contact Number</b><br>
+        <a href="tel:+31633578732">+31 6 3357 8732</a>
+      </p>
       <p>🔗 <b>Links</b><br>
         <span style="white-space: nowrap;">
           <a href="https://www.linkedin.com/in/dewantkatare/" target="_blank">LinkedIn</a> | 
