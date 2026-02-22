@@ -91,8 +91,8 @@
 - 01/2019 [Embedded system enabled vehicle collision detection: an ANN classifier](https://ieeexplore.ieee.org/abstract/document/8666562)
 <br />Katare, D., & El-Sharkawy, M. (2019, January). Embedded system enabled vehicle collision detection: an ANN classifier. In 2019 IEEE 9th annual computing and communication workshop and conference (CCWC) (pp. 0284-0289). IEEE.
 
-- 06/2018 [Collision warning system: embedded enabled (RTMaps with NXP BLBX2)](https://ieeexplore.ieee.org/abstract/document/8705101)
+- 10/2018 [Collision warning system: embedded enabled (RTMaps with NXP BLBX2)](https://ieeexplore.ieee.org/abstract/document/8705101)
 <br /> Katare, D., & El-Sharkawy, M. (2018, December). Collision warning system: embedded enabled (RTMaps with NXP BLBX2). In 2018 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT) (pp. 1-6). IEEE. 
 
-- 05/2018 [IOT based solution for level detection using CNN and OpenCV](https://www.proquest.com/openview/a2e6fbe1ba0e9eb698518461bf95776b/1?pq-origsite=gscholar&cbl=1976348)
+- 07/2018 [IOT based solution for level detection using CNN and OpenCV](https://www.proquest.com/openview/a2e6fbe1ba0e9eb698518461bf95776b/1?pq-origsite=gscholar&cbl=1976348)
 <br /> Pathak, D., Sarangapani, R. N., Katare, D., Gaikwad, A. S., & El-Sharkawy, M. (2018). IOT based solution for level detection using CNN and OpenCV. In Proceedings on the International Conference on Internet Computing (ICOMP) (pp. 83-87). The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp).
