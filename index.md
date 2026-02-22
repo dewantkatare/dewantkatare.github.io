@@ -9,29 +9,31 @@
         <a href="mailto:dewant.katare@ieee.org">dewant.katare@ieee.org</a>
       </p>      
       <p>🔗 <b>Links</b><br>
-        <a href="https://www.linkedin.com/in/dewantkatare/">LinkedIn</a><br>
-        <a href="https://scholar.google.com/citations?user=mc1M7awAAAAJ">Google Scholar</a><br>
-        <a href="https://orcid.org/0000-0002-3412-7603">ORCiD</a><br>
-        <a href="https://dblp.org/pid/247/8621.html">DBLP</a>
+        <small>
+          <a href="https://www.linkedin.com/in/dewantkatare/" target="_blank">LinkedIn</a> | 
+          <a href="https://scholar.google.com/citations?user=mc1M7awAAAAJ" target="_blank">Scholar</a> | 
+          <a href="https://orcid.org/0000-0002-3412-7603" target="_blank">ORCiD</a> | 
+          <a href="https://dblp.org/pid/247/8621.html" target="_blank">DBLP</a>
+        </small>
       </p>
     </td>
     
     <td style="width: 70%; vertical-align: top; border: none;">
-      <h1>Dewant Katare</h1>
-      <p>ML/AI Research Engineer with interest in Processors, Accelerators, and Embedded Systems.</p>
-      <p><b>PhD - Approximation at the Edge for Automated Driving</b><br>
-      Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090">APROPOS Project</a></p>
-      
-      
-      <hr>
+      <div style="padding-top: 10px;">
+        <p>ML/AI Research Engineer with interest in Processors, Accelerators, and Embedded Systems.</p>
+        <p><b>PhD - Approximation at the Edge for Automated Driving</b><br>
+        Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090" target="_blank">APROPOS Project</a></p>
+        
+        <hr>
 
-      <h3>Research Areas</h3>
-      <ul>
-        <li>Approximate Computing for Vehicular Edge AI</li>
-        <li>Energy-aware Machine Learning</li>
-        <li>Sustainable Computing Continuum</li>
-        <li>Edge AI and Systems</li>
-      </ul>
+        <h3>Research Areas</h3>
+        <ul>
+          <li>Approximate Computing for Vehicular Edge AI</li>
+          <li>Energy-aware Machine Learning</li>
+          <li>Sustainable Computing Continuum</li>
+          <li>Edge AI and Systems</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
