@@ -25,7 +25,7 @@
     <td style="width: 65%; vertical-align: top; border: none;">
       <div style="padding-top: 10px;">
         <!-- <h2 style="margin-top: 0; color: #333;">देवांत कटारे</h2> -->
-        
+<!--         
         <p>ML/AI Research Engineer with interest in Processors, Accelerators, and Embedded Systems.</p>
         <p><b>PhD - Approximation at the Edge for Automated Driving</b><br>
         Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090" target="_blank">APROPOS</a></p>
@@ -40,9 +40,9 @@
           <li>Edge AI and Systems</li>
         </ul>
       </div>
-    </td>
+    </td> -->
   <!-- </tr>
-</table> --> -->
+</table> --> 
 
 <div style="display: flex; align-items: flex-start; gap: 40px;">
 
