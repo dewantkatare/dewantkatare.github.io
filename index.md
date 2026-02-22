@@ -9,8 +9,7 @@
         <a href="mailto:dewant.katare@ieee.org">dewant.katare@ieee.org</a>
       </p>
       <p> <b>Contact Number</b><br>
-        <a +31633578732 </a><br>
-        <a href="mailto:dewant.katare@ieee.org">dewant.katare@ieee.org</a>
+        <a href="+31633578732">+31633578732</a><br>
       </p>         
       <p>🔗 <b>Links</b><br>
         <span style="white-space: nowrap;">
