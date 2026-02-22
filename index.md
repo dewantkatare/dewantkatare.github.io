@@ -1,6 +1,42 @@
-PhD - Approximation at the Edge for Automated Driving (Marie Skłodowska-Curie Actions Researcher) [APROPOS Project](https://cordis.europa.eu/project/id/956090){:target="_blank"} 
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="width: 30%; vertical-align: top; border: none; padding-right: 20px;">
+      <img src="profile-dk.jpg" alt="Dewant Katare" style="width: 100%; border-radius: 10px;">
+      <br><br>
+      <p>📍 <b>Location</b><br>Delft, Netherlands</p>
+      <p>📧 <b>Email</b><br><a href="mailto:dewant.katare@gmail.com">dewant.katare@gmail.com</a></p>
+      <p>🔗 <b>Links</b><br>
+        <a href="https://www.linkedin.com/in/dewantkatare/">LinkedIn</a><br>
+        <a href="https://scholar.google.com/citations?user=mc1M7awAAAAJ">Google Scholar</a><br>
+        <a href="https://orcid.org/0000-0002-3412-7603">ORCiD</a><br>
+        <a href="https://dblp.org/pid/247/8621.html">DBLP</a>
+      </p>
+    </td>
+    
+    <td style="width: 70%; vertical-align: top; border: none;">
+      <h1>Dewant Katare</h1>
+      <p><b>PhD - Approximation at the Edge for Automated Driving</b><br>
+      Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090">APROPOS Project</a></p>
+      
+      <p>ML/AI Research Engineer specializing in Processors, Accelerators, and Embedded Systems.</p>
+      
+      <hr>
 
-ML/AI Research Engineer.
+      <h3>Research Areas</h3>
+      <ul>
+        <li>Approximate Computing for Vehicular Edge AI</li>
+        <li>Energy-aware Machine Learning</li>
+        <li>Sustainable Computing Continuum</li>
+        <li>Bias Detection in Autonomous Systems</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+<!-- PhD - Approximation at the Edge for Automated Driving (Marie Skłodowska-Curie Actions Researcher) [APROPOS Project](https://cordis.europa.eu/project/id/956090){:target="_blank"} 
+
+ML/AI Research Engineer. -->
 <!-- Processors, Accelerators and Embedded Systems -->
 
 [❇️ Linkedin](https://www.linkedin.com/in/dewantkatare/){:target="_blank"} 
