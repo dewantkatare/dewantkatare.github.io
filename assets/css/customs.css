@@ -1,0 +1,13 @@
+/* Make page wider */
+.wrapper,
+.page-content,
+.site-content,
+.container {
+    max-width: 1200px !important;
+    width: 95% !important;
+}
+
+/* Improve spacing */
+table {
+    margin-bottom: 0;
+}
