@@ -39,7 +39,8 @@
     
     <td style="width: 65%; vertical-align: top; border: none;">
     <div style="padding-top: 10px;">
-            <p><b>ML/AI Research Engineer</b> at Perciv AI (Delft) | Specialized in Processors, Accelerators, and Embedded Systems.</p>
+            <p><b>ML/AI Research Engineer</b> at Perciv AI (Delft)</p>
+            <p>Specialized in Processors, Accelerators, and Embedded Systems</p>
             
             <p><b>Doctor of Philosophy (2025)</b> | <i>TU Delft</i><br>
             Thesis: <i>Approximation at the Edge for Automated Driving</i><br>
