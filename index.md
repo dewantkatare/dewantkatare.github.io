@@ -124,7 +124,7 @@
 
 <div align="center">
 
-### माता पिता गुरु देवम्
+### माता • पिता • गुरु • देवम् ||
 *Mātā Pitā Guru Devam*
 
 **Mother • Father • Teacher • God**
