@@ -10,27 +10,42 @@
       </p>
       <p>
         📞 <b>Contact Number</b><br>
-        <a href="tel:+31633578732">+31 6 3357 8732</a>
+        <a href="tel:+31633578732">+31 633578732</a>
       </p>
-      <p>🔗 <b>Links</b><br>
-        <span style="white-space: nowrap;">
-          <a href="https://www.linkedin.com/in/dewantkatare/" target="_blank">LinkedIn</a> | 
-          <a href="https://scholar.google.com/citations?user=mc1M7awAAAAJ" target="_blank">Scholar</a> | 
-          <a href="https://orcid.org/0000-0002-3412-7603" target="_blank">ORCiD</a> | 
-          <a href="https://dblp.org/pid/247/8621.html" target="_blank">DBLP</a>
+      <p>🔗 <b>Find me at:</b><br>
+        <span style="white-space: nowrap; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 5px;">
+          <!-- LinkedIn Icon -->
+          <a href="https://www.linkedin.com/in/dewantkatare/" target="_blank" title="LinkedIn" style="text-decoration: none;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="#0A66C2"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.25V10.9H6.46M7.86 6.75a1.62 1.62 0 1 0 0 3.24 1.62 1.62 0 0 0 0-3.24z"/></svg>
+          </a>
+          | 
+          <!-- Google Scholar  -->
+          <a href="https://scholar.google.com/citations?user=mc1M7awAAAAJ" target="_blank" title="Google Scholar" style="text-decoration: none;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.8 3.84C5.4 11.23 8.35 10 12 10c3.65 0 6.6 1.23 7.2 3.34L24 9.5 12 0z"/></svg>
+          </a>
+          | 
+          <!-- ORCID  -->
+          <a href="https://orcid.org/0000-0002-3412-7603" target="_blank" title="ORCiD" style="text-decoration: none;">
+            <svg width="20" height="20" viewBox="0 0 256 256" fill="#A6CE39"><path d="M256 128c0 70.7-57.3 128-128 128S0 198.7 0 128 57.3 0 128 0s128 57.3 128 128z"/><path fill="#FFF" d="M86.3 186.2H70V81.4h16.3v104.8zM78.1 61.3c-5.7 0-10.2-4.6-10.2-10.3s4.5-10.2 10.2-10.2c5.7 0 10.2 4.6 10.2 10.2a10.2 10.2 0 0 1-10.2 10.3zm42.6 124.9h-16.3V81.4h32.7c22.3 0 37.1 14.8 37.1 36.6 0 16.2-8.8 29.8-23 34.6l24.4 33.6h-19.9l-22.3-31.8h-12.7v31.8zm0-46.1h15.4c12.2 0 19.9-7.3 19.9-18.8 0-11.2-7.7-18.1-19.9-18.1h-15.4v36.9z"/></svg>
+          </a>
+          | 
+          <!-- DBLP  -->
+          <a href="https://dblp.org/pid/247/8621.html" target="_blank" title="DBLP" style="text-decoration: none;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="#1C75BC"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 15h-2v-6h2v6zm0-8h-2V7h2v2zm4 8h-2V7h2v10z"/></svg>
+          </a>
         </span>
       </p>
     </td>
     
     <td style="width: 65%; vertical-align: top; border: none;">
-      <div style="padding-top: 10px;">
-        <!-- <h2 style="margin-top: 0; color: #333;">देवांत कटारे</h2> -->
-        
-        <p>ML/AI Research Engineer with interest in Processors, Accelerators, and Embedded Systems.</p>
-        <p><b>PhD - Approximation at the Edge for Automated Driving</b><br>
-        Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090" target="_blank">APROPOS</a></p>
-        
-        <hr>
+    <div style="padding-top: 10px;">
+            <p><b>ML/AI Research Engineer</b> at Perciv AI (Delft) | Specialized in Processors, Accelerators, and Embedded Systems.</p>
+            
+            <p><b>PhD in Computer Science (2025)</b> — <i>TU Delft</i><br>
+            Thesis: <i>Approximation at the Edge for Automated Driving</i><br>
+            Marie Skłodowska-Curie Actions Researcher | <a href="https://cordis.europa.eu/project/id/956090" target="_blank">APROPOS Project</a></p>
+            
+            <hr>
 
         <h3>Research Areas</h3>
         <ul>
@@ -104,3 +119,14 @@
 
 - 07/2018 [IOT based solution for level detection using CNN and OpenCV](https://www.proquest.com/openview/a2e6fbe1ba0e9eb698518461bf95776b/1?pq-origsite=gscholar&cbl=1976348)
 <br /> Pathak, D., Sarangapani, R. N., Katare, D., Gaikwad, A. S., & El-Sharkawy, M. (2018). IOT based solution for level detection using CNN and OpenCV. In Proceedings on the International Conference on Internet Computing (ICOMP) (pp. 83-87). The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp).
+
+---
+
+<div style="margin-top: 40px; padding: 15px 20px; border-left: 3px solid #888; background-color: #f9f9f9; font-style: italic;">
+  <p style="margin-bottom: 10px; color: #444;">
+    "Every heart is just a bounded signal, desperately fighting with its own soul to delay its own collapse into the origin."
+  </p>
+  <p style="margin-top: 0; color: #444;">
+    "Life is asymptotically stable — as $t \to \infty$, $\text{life} \to 0$."
+  </p>
+</div>
