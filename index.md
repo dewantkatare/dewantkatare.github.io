@@ -122,11 +122,20 @@
 
 ---
 
-<div style="margin-top: 40px; padding: 15px 20px; border-left: 3px solid #888; background-color: #f9f9f9; font-style: italic;">
+<div align="center">
+
+### माता पिता गुरु देवम्
+*Mātā Pitā Guru Devam*
+
+**Mother • Father • Teacher • God**
+
+</div>
+
+<!-- <div style="margin-top: 40px; padding: 15px 20px; border-left: 3px solid #888; background-color: #f9f9f9; font-style: italic;">
   <p style="margin-bottom: 10px; color: #444;">
     "Every heart is just a bounded signal, desperately fighting with its own soul to delay its own collapse into the origin."
   </p>
   <p style="margin-top: 0; color: #444;">
     "Life is asymptotically stable — as <i>t</i> &rarr; &infty;, life &rarr; 0."
   </p>
-</div>
+</div> -->
