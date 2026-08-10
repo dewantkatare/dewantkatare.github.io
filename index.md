@@ -1,7 +1,7 @@
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed;">
   <tr>
   <td style="width: 35%; vertical-align: top; border: none; padding-right: 25px;">
-    <img src="profile_dk.png" alt="Dewant Katare" style="width: 50%; border-radius: 10px;">
+    <img src="profile_dk.jpg" alt="Dewant Katare" style="width: 50%; border-radius: 10px;">
     <br><br>
       <p>📍 <b>Location</b><br>Delft, Netherlands</p>
       <p>📧 <b>Email address</b><br>
