@@ -1,9 +1,9 @@
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed;">
   <tr>
-    <!-- Left Column: Set to 28% for a clean layout -->
-    <td style="width: 28%; vertical-align: top; border: none; padding-right: 20px;">
-      <!-- Changed width to 100% so it aligns perfectly with the left column -->
-      <img src="profile_dk.jpg" alt="Dewant Katare" style="width: 100%; max-width: 220px; border-radius: 10px; display: block;">
+    <!-- Left Column: Increased to 35% for a larger image layout -->
+    <td style="width: 35%; vertical-align: top; border: none; padding-right: 25px;">
+      <!-- Removed max-width restriction to allow full horizontal stretch -->
+      <img src="profile_dk.jpg" alt="Dewant Katare" style="width: 100%; height: auto; border-radius: 10px; display: block;">
       <br>
       <p>📍 <b>Location</b><br>Delft, Netherlands</p>
       <p>📧 <b>Email address</b><br>
@@ -39,8 +39,8 @@
       </p>
     </td>
     
-    <!-- Right Column: Set to 72% -->
-    <td style="width: 72%; vertical-align: top; border: none;">
+    <!-- Right Column: Set to 65% -->
+    <td style="width: 65%; vertical-align: top; border: none;">
       <div style="padding-top: 5px;">
         <p><b>ML/AI Research Engineer</b> at Perciv AI (Delft)</p>
         <p>Specialized in Processors, Accelerators, and Embedded Systems</p>
