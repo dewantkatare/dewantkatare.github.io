@@ -1,3 +1,4 @@
+<link rel="icon" type="image/png" href="logo.png">
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed;">
   <tr>
     <!-- Left Column: Increased to 35% for a larger image layout -->
